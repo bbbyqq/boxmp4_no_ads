@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name         MP4电影去广告
+// @name         MP4电影，影视工场去广告
 // @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  去除MP4电影所有广告!
+// @version      1.1
+// @description  去除www.boxmp4.com和www.ysgc.cc的广告!
 // @author       bbbyqq
 // @match        *://www.boxmp4.com/*
+// @match        *://www.ysgc.cc/*
 // @match        *://boxmp4.com/*
+// @match        *://ysgc.cc/*
 // @license      bbbyqq
 // ==/UserScript==
 
